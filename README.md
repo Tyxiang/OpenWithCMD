@@ -1,5 +1,5 @@
 ## 用途
-方便地使用Windows的CMD。
+方便地使用Windows的命令提示符(CMD)。
 
 ## 安装
 
