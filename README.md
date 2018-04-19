@@ -1,5 +1,4 @@
-## 用途 Effect
-更方便地使用Windows的命令提示符(CMD)。
+在Windows右键菜单中增加“Open With CMD”选项，随时随地用CMD打开目录。
 
 ## 安装 Install
 1. 下载压缩包；
