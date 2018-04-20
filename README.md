@@ -11,4 +11,8 @@
 
 ## 卸载 Uninstall
 1. 运行Uninstall；
+<<<<<<< HEAD
 1. 删除安装目录；
+=======
+1. 删除安装目录；
+>>>>>>> d5c16a319936f9fa862f2e7b75320afd3ccc42dd
