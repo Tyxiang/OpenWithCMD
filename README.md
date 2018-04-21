@@ -1,5 +1,5 @@
 # OpenWithCMD 
-
+[MIT license](https://opensource.org/licenses/MIT)  
 在Windows右键菜单中增加“Open With CMD”选项，随时随地用CMD打开目录。  
 
 ## 安装 Install
