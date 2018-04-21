@@ -1,4 +1,7 @@
-在Windows右键菜单中增加“Open With CMD”选项，随时随地用CMD打开目录。
+# OpenWithCMD 
+
+在Windows右键菜单中增加“Open With CMD”选项，随时随地用CMD打开目录。  
+![icon](https://raw.githubusercontent.com/Tyxiang/OpenWithCMD/master/icon.ico)
 
 ## 安装 Install
 1. 下载压缩包；
