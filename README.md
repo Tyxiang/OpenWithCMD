@@ -11,7 +11,7 @@ Add "Open With CMD" option in Windows right-click menu, open directory with CMD 
 
 ## Usage
 - Right click `A directory` or `Blank space in current directory`;  
-- Select "Open With CMD" in the context menu;
+- Select "Open with CMD" in the context menu;
 
 ## Uninstall
 1. Run Uninstall.exe;
