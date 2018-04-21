@@ -15,4 +15,4 @@ Add "Open With CMD" option in Windows right-click menu, open directory with CMD 
 
 ## Uninstall
 1. Run Uninstall.exe;
-1. Delete all;
+1. Delete directory and files;
