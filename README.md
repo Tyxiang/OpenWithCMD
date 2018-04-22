@@ -4,7 +4,7 @@
 
 Add "Open With CMD" option in Windows right-click menu, open directory with CMD anytime, anywhere. 
 
-![screenshot](https://github.com/Tyxiang/OpenWithCMD/blob/master/screenshot.png) 
+![screenshot](https://raw.githubusercontent.com/Tyxiang/OpenWithCMD/blob/master/screenshot.png) 
 
 ## Install
 1. Download zip package from Releases;
