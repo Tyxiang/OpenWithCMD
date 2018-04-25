@@ -7,7 +7,7 @@ Add "Open With CMD" option in Windows right-click menu, open directory with CMD 
 ![screenshot](https://raw.githubusercontent.com/Tyxiang/OpenWithCMD/master/screenshot.png) 
 
 ## Install
-1. Download zip package from [Releases](https://github.com/Tyxiang/OpenWithCMD/releases);
+1. Download zip package from [Releases](https://github.com/Tyxiang/OpenWithCMD/releases) or [Here](http://forw.cc/download/OpenWithCMD.V1.00.zip);
 1. Decompress the zip package;
 1. Run Install.exe;
 
