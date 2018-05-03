@@ -14,7 +14,3 @@
 ## Uninstall
 1. Run Uninstall.exe;
 1. Delete the directory and files;
-
-## Other
-- [Download](/download/OpenWithCMD.zip)
-- [GitHub](https://github.com/Tyxiang/OpenWithCMD)
